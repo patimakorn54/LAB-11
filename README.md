@@ -87,9 +87,19 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
 
+![](https://github.com/patimakorn54/LAB-11/blob/master/imgs/Capture6.JPG?raw=true)
+
+
+
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+
+
+![](https://github.com/patimakorn54/LAB-11/blob/master/imgs/Capture7.JPG?raw=true)
+
+
+
